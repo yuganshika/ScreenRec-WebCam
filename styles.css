@@ -1,0 +1,29 @@
+#container1 {
+  margin: 0 auto;
+  width: 500px;
+  height: 375px;
+  border: 10px #0F044C solid;
+}
+
+#videoElement {
+  width: 500px;
+  height: 375px;
+  background-color: #EEEEEE;
+}
+
+#startButton {
+  margin: 10px;
+}
+
+#container2 {
+  margin: 10px auto;
+  width: 700px;
+  height: 400px;
+
+}
+
+#videoElement2 {
+  width: 700px;
+  height: 400px;
+  background-color: #EEEEEE;
+}
